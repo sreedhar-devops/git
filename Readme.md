@@ -1,2 +1,2 @@
-Demonstrating Git
+Demonstrating Git Abilities
 Master Branch
