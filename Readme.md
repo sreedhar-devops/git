@@ -1,2 +1,2 @@
-Demonstrating Git Abilities in Master
+Demonstrating Git Abilities in Master in git folder
 Master Branch
